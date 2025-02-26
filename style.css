@@ -1,0 +1,15 @@
+body {
+	display: flex;
+}
+
+.left-side,
+.right-side {
+	width: 50%;
+	height: 100vh;
+}
+.left-side {
+	background-color: green;
+}
+.right-side {
+	background-color: red;
+}
